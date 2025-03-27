@@ -134,7 +134,7 @@ export default function About() {
             I'm ready to help you discover the magic of Wadi Rum. Contact me to discuss your interests and create your
             perfect desert experience.
           </p>
-          <Button size="lg" variant="outline" className="text-white border-white hover:bg-white/10 hover:text-black">
+          <Button size="lg" variant="outline" className="text-black border-white hover:bg-white/10 hover:text-black">
             <Link href="/contact">Get in Touch</Link>
           </Button>
         </div>
